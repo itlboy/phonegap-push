@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "Push"
+    },
+    "phonegap-plugin-push": {
+      "SENDER_ID": "XXXXXXX",
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "Push"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "Push"
+    }
+  },
+  "dependent_plugins": {}
+}
